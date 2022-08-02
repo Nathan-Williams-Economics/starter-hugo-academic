@@ -65,7 +65,7 @@ email: 'nathan.williams@emory.edu'
 highlight_name: true
 ---
 
-Nathan Williams is a graduate student at Emory University. His research interests include Heterogenious Agent New Keynesian (HANK) models and continuous time macreconomics, especially the dynamics of wealth distributions across time. In addition to economics, Nathan loves to be outside, hiking and biking around the Atlanta area. 
+Nathan Williams is a graduate student in Economics at Emory University. His research interests include Heterogeneous Agent New Keynesian (HANK) models and continuous time macreconomics, especially the dynamics of wealth distributions across time. In addition to economics, Nathan loves to be outside, hiking and biking around the Atlanta area. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
