@@ -14,7 +14,7 @@ organizations:
     url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include continous time macroeconomics, heterogenity, and the evolution of distributions.
+bio: My research interests include continous time macroeconomics, heterogenity, and the evolution of wealth distributions.
 
 # Interests to show in About widget
 interests:
