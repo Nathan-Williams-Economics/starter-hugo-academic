@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 weight: 30
 
-title: Skills
+title: Accomplishments
 subtitle:
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
