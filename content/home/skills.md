@@ -15,18 +15,17 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - description: 90%
 
-icon: r-project
+feature:
+  - icon: r-project
     icon_pack: fab
     name: R
-
-icon: camera-retro
+  - icon: chart-line
     icon_pack: fas
     name: Matlab
-
-
+  - icon: chart-line
+    icon_pack: fas
+    name: Matlab
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
