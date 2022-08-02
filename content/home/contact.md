@@ -27,11 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: nathan.williams@emory.edu
   phone: 763 268 9488
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/NathanEcon'
+
 
 
 design:
