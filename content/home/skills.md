@@ -25,7 +25,7 @@ feature:
     name: Matlab
   - icon: chart-line
     icon_pack: fas
-    name: Matlab
+    name: Python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
