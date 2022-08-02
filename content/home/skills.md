@@ -26,8 +26,8 @@ icon: camera-retro
     icon_pack: fas
     name: Matlab
 
-icon: camera-retro
-    icon_pack: fas
+icon: fa-python
+    icon_pack: fa-brands
     name: Python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
