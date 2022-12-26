@@ -65,7 +65,7 @@ email: 'nathan.williams@emory.edu'
 highlight_name: true
 ---
 
-Nathan Williams is a graduate student in Economics at Emory University. His research interests inlcude the intersection between inequality and international economics from a structural perspective. He currently works on providing historical context to models related to the Great Migration and labor reforms in the face of changing international dynamics. In addition to economics, Nathan loves to be outside, hiking and biking around the Atlanta area. 
+Nathan Williams is a graduate student in Economics at Emory University. His research interests include the intersection between inequality and international economics from a structural perspective. He currently works on providing historical context to models related to the Great Migration and labor reforms in the face of changing international dynamics. In addition to economics, Nathan loves to be outside, hiking and biking around the Atlanta area. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

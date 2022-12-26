@@ -26,6 +26,9 @@ feature:
   - icon: chart-line
     icon_pack: fas
     name: Python
+  - icon: chart-line
+    icon_pack: fas
+    name: Julia
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
