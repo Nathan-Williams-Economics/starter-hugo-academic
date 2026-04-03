@@ -14,20 +14,20 @@ organizations:
     url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroeconomics, heterogenity, and the evolution of wealth distributions.
+bio: My research lies at the intersection of growth and spatial economics. I study how the internal geography of cities shapes economic opportunity and growth, with a particular focus on how within-city sorting and local interactions influence neighborhood and urban development.
 
 # Interests to show in About widget
 interests:
-  - International Trade and Finance
+  - Spatial Economics
+  - Growth
   - Inequality
-  - History
 
 # Education to show in About widget
 education:
   courses:
     - course: Doctorate in Economics
       institution: Emory University
-      year: 2025
+      year: 2027 (Expected)
     - course: BA in Economics, Minor in Mathematics 
       institution: Saint John's University
       year: 2019
@@ -65,7 +65,7 @@ email: 'nathan.williams@emory.edu'
 highlight_name: true
 ---
 
-Nathan Williams is a graduate student in Economics at Emory University. His research interests include the intersection between inequality and international economics from a structural perspective. He currently works on providing historical context to models related to the Great Migration and labor reforms in the face of changing international dynamics. In addition to economics, Nathan loves to be outside, hiking and biking around the Atlanta area. 
+Nathan Williams is a PhD student in Economics at Emory University. His research sits at the intersection of growth and spatial economics. He studies how the internal structure of cities shapes economic opportunity, inequality, and growth. His job market paper examines how within-city geography affects urban growth by changing who interacts with whom across neighborhoods. His broader research agenda focuses on how spatial environments shape long-run economic outcomes.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
