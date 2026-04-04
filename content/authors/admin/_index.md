@@ -68,4 +68,4 @@ highlight_name: true
 Nathan Williams is a PhD student in Economics at Emory University. His research sits at the intersection of growth and spatial economics. He studies how the internal structure of cities shapes economic opportunity, inequality, and growth. His job market paper examines how within-city geography affects urban growth by changing who interacts with whom across neighborhoods. His broader research agenda focuses on how spatial environments shape long-run economic outcomes.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
