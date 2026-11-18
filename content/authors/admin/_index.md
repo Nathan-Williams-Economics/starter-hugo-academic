@@ -64,8 +64,7 @@ email: 'nathan.williams@emory.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Nathan Williams is a PhD student in economics at Emory University and is on the 2026–27 job market. His research spans growth, spatial economics, and inequality. His job market paper asks how much spillovers between neighborhoods contribute to long-run differences in average income across cities. Using data from 25 U.S. metropolitan areas, he estimates how these spillovers vary with neighborhood income and road travel times.
 
-Nathan Williams is a PhD student in Economics at Emory University. His research sits at the intersection of growth and spatial economics. He studies how the internal structure of cities shapes economic opportunity, inequality, and growth. His job market paper examines how within-city geography affects urban growth by changing who interacts with whom across neighborhoods. His broader research agenda focuses on how spatial environments shape long-run economic outcomes.
-
-
+**Geography and Urban Growth** · [PDF](/uploads/geography-and-urban-growth.pdf)
 
